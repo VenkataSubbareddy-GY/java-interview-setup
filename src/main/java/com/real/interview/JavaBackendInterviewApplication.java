@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication(scanBasePackages = {"com.real.interview.*"})
-//@ComponentScan("com.real.interview.repo")
 public class JavaBackendInterviewApplication {
 
     public static void main(String[] args) {
